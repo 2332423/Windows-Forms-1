@@ -1,0 +1,16 @@
+C:\Users\Кирилл\source\repos\laba 31\laba 31\bin\Debug\net8.0-windows\laba 31.exe
+C:\Users\Кирилл\source\repos\laba 31\laba 31\bin\Debug\net8.0-windows\laba 31.deps.json
+C:\Users\Кирилл\source\repos\laba 31\laba 31\bin\Debug\net8.0-windows\laba 31.runtimeconfig.json
+C:\Users\Кирилл\source\repos\laba 31\laba 31\bin\Debug\net8.0-windows\laba 31.dll
+C:\Users\Кирилл\source\repos\laba 31\laba 31\bin\Debug\net8.0-windows\laba 31.pdb
+C:\Users\Кирилл\source\repos\laba 31\laba 31\obj\Debug\net8.0-windows\laba_31.Form1.resources
+C:\Users\Кирилл\source\repos\laba 31\laba 31\obj\Debug\net8.0-windows\laba 31.csproj.GenerateResource.cache
+C:\Users\Кирилл\source\repos\laba 31\laba 31\obj\Debug\net8.0-windows\laba 31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кирилл\source\repos\laba 31\laba 31\obj\Debug\net8.0-windows\laba 31.AssemblyInfoInputs.cache
+C:\Users\Кирилл\source\repos\laba 31\laba 31\obj\Debug\net8.0-windows\laba 31.AssemblyInfo.cs
+C:\Users\Кирилл\source\repos\laba 31\laba 31\obj\Debug\net8.0-windows\laba 31.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\source\repos\laba 31\laba 31\obj\Debug\net8.0-windows\laba 31.dll
+C:\Users\Кирилл\source\repos\laba 31\laba 31\obj\Debug\net8.0-windows\refint\laba 31.dll
+C:\Users\Кирилл\source\repos\laba 31\laba 31\obj\Debug\net8.0-windows\laba 31.pdb
+C:\Users\Кирилл\source\repos\laba 31\laba 31\obj\Debug\net8.0-windows\laba 31.genruntimeconfig.cache
+C:\Users\Кирилл\source\repos\laba 31\laba 31\obj\Debug\net8.0-windows\ref\laba 31.dll
